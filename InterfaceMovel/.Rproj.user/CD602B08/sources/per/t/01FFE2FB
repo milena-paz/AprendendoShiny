@@ -3,7 +3,7 @@
     "path": "~/GitHub/AprendendoShiny/InterfaceMovel/InterfaceMovel/server.R",
     "project_path": "InterfaceMovel/server.R",
     "type": "r_source",
-    "hash": "1197403951",
+    "hash": "2171466167",
     "contents": "",
     "dirty": false,
     "created": 1732823211594.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
+        "cursorPosition": "6,92",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732879636,
+    "lastKnownWriteTime": 1732886482,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732879636,
+    "last_content_update": 1732886482720,
     "read_only": false,
     "read_only_alternatives": []
 }
