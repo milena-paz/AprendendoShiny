@@ -11,5 +11,5 @@ function(input, output, session) {
         axis.title= element_text(size=15)
       )
   })
-  output$plot1 <- renderPlot(df())
+  output$plot1 <- renderPlot(df(), bg="transparent")
 }
